@@ -86,8 +86,8 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
-pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
+valentineName: "Lawdi"                    // Your Valentine's name
+pageTitle: "Will You Be Harman ka Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
