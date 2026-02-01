@@ -54,8 +54,8 @@ I created a free, open-source Valentine's website generator that lets anyone cre
 - 📱 Mobile-friendly
 - 💯 Free forever
 
-Demo: https://end2endai.github.io/valentine-website-2025
-GitHub: https://github.com/End2EndAI/valentine-website-2025
+Demo: https://end2endai.github.io/valentine-website-2026
+GitHub: https://github.com/End2EndAI/valentine-website-2026
 ```
 
 ## ✨ Features
@@ -86,8 +86,8 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
-pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
+valentineName: "Lawdi"                    // Your Valentine's name
+pageTitle: "Will You Be Harman ka Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
